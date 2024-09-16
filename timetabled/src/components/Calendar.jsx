@@ -58,7 +58,7 @@ const Calendar = () => {
           <tr>
             <td className="time">12 pm</td>
             <td></td>
-            <Event event='Ramen 🍜' color='brown' />
+            <Event event='Ramen 🍜' color='brown' location='Iruca Tokyo'/>
             <td></td>
             <td></td>
             <td></td>
