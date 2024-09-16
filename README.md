@@ -1,2 +1,2 @@
 # WEB 102 Lab Prework
-![image](https://github.com/user-attachments/assets/bfbd67d5-9f30-42ca-9b37-2fdf3b32772e)
+![image](https://github.com/user-attachments/assets/dde10b30-6ad5-4f0e-946d-fd11c1ed9ef4)
